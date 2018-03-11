@@ -1,0 +1,7 @@
+New Features ES2016(ES7)
+========================
+
+1.Array.prototype.includes()
+2.Generators and generator methods are no longer constructable
+3.Exponentiation operator
+4.Rest parameter destructuring

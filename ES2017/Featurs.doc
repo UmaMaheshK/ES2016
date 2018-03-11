@@ -1,0 +1,6 @@
+1.Object.values() and Object.entries()
+2.String.prototype.padEnd()
+3.String.prototype.padStart()
+4.Object.getOwnPropertyDescriptors()
+5.async & await
+6.Trailing commas in function parameter lists
